@@ -1,5 +1,3 @@
-<h2 align="center">About me</h2>
-
 ```golang
 package main
 
@@ -34,9 +32,3 @@ func GetBio() Bio {
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Zeki Ahmet Bayara's LinkedIn Profile" height="30" width="30">
   </a>
 </p>
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{zekiahmetbayar}/count.svg" alt="Visitor's Count" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zekiahmetbayar&show_icons=true&theme=tokyonight" /></p>
