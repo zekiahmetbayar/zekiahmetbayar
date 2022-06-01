@@ -25,8 +25,6 @@ func GetBio() Bio {
 }
 ```
 
-<h2 align="center">You can reach me at :alien:</h2>
-
 <p align="center">
   <a href="https://dev.to/zeki">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Zeki Ahmet Bayar's DEV Profile" height="30" width="30">
@@ -34,15 +32,6 @@ func GetBio() Bio {
 
   <a href="https://www.linkedin.com/in/zeki-ahmet-bayar-7a8062173/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Zeki Ahmet Bayara's LinkedIn Profile" height="30" width="30">
-  </a>
-</p>
-
-<h2 align="center">My stack :man_technologist:</h2>
-
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
-<p align="center">
-  <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
   </a>
 </p>
 
