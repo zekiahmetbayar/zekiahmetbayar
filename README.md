@@ -16,7 +16,7 @@ func main() {
 func GetBio() Bio {
 	return Bio{
 		"- 🔭 I’m currently working on":      "HAVELSAN as Software Developer",
-		"- 🌱 I’m currently learning":        "Golang, Bash, Python",
+		"- 🌱 I’m currently learning":        "Golang",
 		"- 👯 I’m looking to collaborate on": "Golang, Bash, Python related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 	}
