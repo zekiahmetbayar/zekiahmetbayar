@@ -8,12 +8,12 @@ import (
 type Bio map[string]string
 
 func main() {
-	for k, v := range GetBio() {
+	for k, v := range getBio() {
 		fmt.Printf("%s: %s\n", k, v)
 	}
 }
 
-func GetBio() Bio {
+func getBio() Bio {
 	return Bio{
 		"- 🔭 I’m currently working on":      "HAVELSAN as Software Developer",
 		"- 🌱 I’m currently learning":        "Golang, PHP",
