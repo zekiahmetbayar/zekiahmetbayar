@@ -20,7 +20,7 @@
 
 <p>
   <a href="https://github.com/zekiahmetbayar">
-    <img width="55%" align="right" alt="Zeki Ahmet Bayar's github stats" src="https://github-readme-stats.vercel.app/api?username=zekiahmetbayar&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Zeki Ahmet Bayar's github stats" src="https://github-readme-stats.vercel.app/api?username=zekiahmetbayar&show_icons=true&hide_border=true&theme=dracula" />
   </a>
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
