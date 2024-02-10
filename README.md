@@ -2,7 +2,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zekiahmetbayar)
-[![Twitter](https://img.shields.io/badge/-X-000000?style=flat&labelColor=ffff&logo=x&logoColor=white)](https://www.instagram.com/zekiahmetbayar)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&labelColor=ffff&logo=x&logoColor=white)](https://www.x.com/zekiahmetbayar)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zekiahmetbayar1@gmail.com)
 
 
@@ -12,7 +12,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Liman](https://github.com/limanmys)
+- 👨🏽‍💻 I’m currently working on [HAVELSAN Liman](https://github.com/limanmys)
 - 🌱 I’m currently learning Go, PHP, Bash
 - 📫 How to reach me: zekiahmetbayar1@gmail.com
 
