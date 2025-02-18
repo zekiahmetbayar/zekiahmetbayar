@@ -13,8 +13,8 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [HAVELSAN Liman](https://github.com/limanmys).
-- 🌱 I’m currently learning Go, PHP, Bash.
-- 📫 How to reach me: zekiahmetbayar1@gmail.com.
+- 🌱 I’m currently work with Go, PHP, Bash.
+- 📫 How to reach me: zeki@bayar.de
 
 **Languages and Tools:** 
 
