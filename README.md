@@ -14,7 +14,7 @@
 
 - 👨🏽‍💻 I’m currently working on [HAVELSAN Liman](https://github.com/limanmys).
 - 🌱 I’m currently work with Go, PHP, Bash.
-- 📫 How to reach me: zeki@bayar.de
+- 📫 How to reach me: zeki@bayar.dev
 
 **Languages and Tools:** 
 
